@@ -1,0 +1,1717 @@
+[
+    {
+        "topic_id": 1,
+        "user_id": 29859,
+        "correct_rate": 0.7272727272727273
+    },
+    {
+        "topic_id": 1,
+        "user_id": 34776,
+        "correct_rate": 0.45454545454545453
+    },
+    {
+        "topic_id": 1,
+        "user_id": 35121,
+        "correct_rate": 0.45454545454545453
+    },
+    {
+        "topic_id": 1,
+        "user_id": 35122,
+        "correct_rate": 0.6363636363636364
+    },
+    {
+        "topic_id": 1,
+        "user_id": 35204,
+        "correct_rate": 0.45454545454545453
+    },
+    {
+        "topic_id": 1,
+        "user_id": 35257,
+        "correct_rate": 0.5454545454545454
+    },
+    {
+        "topic_id": 1,
+        "user_id": 35774,
+        "correct_rate": 0.45454545454545453
+    },
+    {
+        "topic_id": 2,
+        "user_id": 29859,
+        "correct_rate": 0.8461538461538461
+    },
+    {
+        "topic_id": 2,
+        "user_id": 35266,
+        "correct_rate": 0.5384615384615384
+    },
+    {
+        "topic_id": 4,
+        "user_id": 33906,
+        "correct_rate": 0.6363636363636364
+    },
+    {
+        "topic_id": 5,
+        "user_id": 33906,
+        "correct_rate": 0.5555555555555556
+    },
+    {
+        "topic_id": 5,
+        "user_id": 35122,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 5,
+        "user_id": 35249,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 5,
+        "user_id": 36005,
+        "correct_rate": 0.1111111111111111
+    },
+    {
+        "topic_id": 5,
+        "user_id": 36979,
+        "correct_rate": 0.7777777777777778
+    },
+    {
+        "topic_id": 6,
+        "user_id": 22697,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 6,
+        "user_id": 23159,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 23200,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 23499,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 23894,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 25241,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 25976,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 26697,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 6,
+        "user_id": 26906,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 27515,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 6,
+        "user_id": 27860,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 27942,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 28554,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 29410,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 6,
+        "user_id": 29856,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 6,
+        "user_id": 29859,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 30818,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 34253,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 6,
+        "user_id": 34271,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 6,
+        "user_id": 34921,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 35087,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 6,
+        "user_id": 35103,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 6,
+        "user_id": 35122,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 6,
+        "user_id": 37029,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 6,
+        "user_id": 37798,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 6,
+        "user_id": 38757,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 10,
+        "user_id": 33989,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34019,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34050,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34053,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34054,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34056,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34057,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34059,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34062,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34071,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34072,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34075,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34091,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34096,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34111,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34126,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34153,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34155,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34157,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34158,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34159,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34160,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34161,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34163,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34182,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34339,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34364,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34366,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34427,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34542,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34614,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34619,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34643,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34684,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34725,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34726,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34746,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34756,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34768,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34794,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34822,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34839,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34873,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34876,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34914,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34927,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34947,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34963,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34977,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 34979,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35036,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35054,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35087,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35122,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35129,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35130,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35166,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35176,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35179,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35204,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35266,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35269,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35276,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35292,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35295,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35370,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35372,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35374,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35378,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35383,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35384,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35388,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35432,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35434,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35514,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35534,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35539,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35557,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35678,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35679,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35691,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35702,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35730,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35796,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35878,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35900,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35908,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35909,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35911,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35912,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35914,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35915,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35916,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35918,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35919,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35920,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35922,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35923,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35932,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35933,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35934,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35940,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 35968,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36030,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36051,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36053,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36085,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36116,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36138,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36181,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36195,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36228,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36239,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36265,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36276,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36355,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36418,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36445,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36450,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36542,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36554,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36613,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36617,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36618,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36619,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36620,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36683,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36971,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36972,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 36976,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37021,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37068,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37103,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37171,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37172,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37173,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37221,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37224,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37291,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37363,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37370,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37373,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37601,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37619,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37682,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37707,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37760,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37835,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37837,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37840,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37931,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37939,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 37990,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38019,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38051,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38231,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38462,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38578,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38737,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 10,
+        "user_id": 38923,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 11,
+        "user_id": 32750,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 32801,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 33532,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 11,
+        "user_id": 34424,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 35122,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 11,
+        "user_id": 35255,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 11,
+        "user_id": 35335,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 11,
+        "user_id": 35539,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 11,
+        "user_id": 35616,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 11,
+        "user_id": 36337,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 36960,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 37051,
+        "correct_rate": 0.16666666666666666
+    },
+    {
+        "topic_id": 11,
+        "user_id": 37694,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 11,
+        "user_id": 37901,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 11,
+        "user_id": 38168,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34768,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34810,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34822,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34844,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34846,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 34910,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35021,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35086,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35122,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35123,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35169,
+        "correct_rate": 0.3333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35266,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35351,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35352,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35541,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35573,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35602,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35636,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35670,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35691,
+        "correct_rate": 0.6
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35695,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35781,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35783,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35809,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35828,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35844,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35885,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 35958,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36096,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36147,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36384,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36420,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36445,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36448,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36467,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36469,
+        "correct_rate": 0.4666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36472,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36493,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36542,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36564,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36584,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36598,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36628,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36718,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36733,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36790,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 36818,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37061,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37072,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37073,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37206,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37253,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37255,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37301,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37614,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37628,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37668,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37717,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37725,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37806,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37807,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37812,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37873,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37898,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37899,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 37934,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38024,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38159,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38263,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38299,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38300,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38360,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38492,
+        "correct_rate": 0.8666666666666667
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38495,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38768,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 12,
+        "user_id": 38864,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 14,
+        "user_id": 35121,
+        "correct_rate": 0.7142857142857143
+    },
+    {
+        "topic_id": 14,
+        "user_id": 35122,
+        "correct_rate": 0.8571428571428571
+    },
+    {
+        "topic_id": 14,
+        "user_id": 35123,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 19,
+        "user_id": 30068,
+        "correct_rate": 0.7142857142857143
+    },
+    {
+        "topic_id": 19,
+        "user_id": 33906,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 20,
+        "user_id": 35122,
+        "correct_rate": 0.7777777777777778
+    },
+    {
+        "topic_id": 20,
+        "user_id": 36979,
+        "correct_rate": 0.7777777777777778
+    },
+    {
+        "topic_id": 21,
+        "user_id": 25815,
+        "correct_rate": 0.125
+    },
+    {
+        "topic_id": 21,
+        "user_id": 27942,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 22,
+        "user_id": 29410,
+        "correct_rate": 0.8333333333333334
+    },
+    {
+        "topic_id": 22,
+        "user_id": 36979,
+        "correct_rate": 0.6666666666666666
+    },
+    {
+        "topic_id": 23,
+        "user_id": 37798,
+        "correct_rate": 0.7222222222222222
+    },
+    {
+        "topic_id": 28,
+        "user_id": 26906,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 28,
+        "user_id": 27942,
+        "correct_rate": 0.6
+    },
+    {
+        "topic_id": 31,
+        "user_id": 34947,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35103,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35122,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35265,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35266,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35539,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35599,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 35630,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36005,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36070,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36091,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36147,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36261,
+        "correct_rate": 0.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36324,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36535,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36776,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 36850,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 37798,
+        "correct_rate": 0.25
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38076,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38203,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38342,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38402,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38437,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38690,
+        "correct_rate": 0.75
+    },
+    {
+        "topic_id": 31,
+        "user_id": 38757,
+        "correct_rate": 0.5
+    },
+    {
+        "topic_id": 32,
+        "user_id": 35122,
+        "correct_rate": 0.4
+    },
+    {
+        "topic_id": 32,
+        "user_id": 35351,
+        "correct_rate": 0.7
+    },
+    {
+        "topic_id": 32,
+        "user_id": 35883,
+        "correct_rate": 0.4
+    },
+    {
+        "topic_id": 32,
+        "user_id": 36856,
+        "correct_rate": 0.7
+    },
+    {
+        "topic_id": 32,
+        "user_id": 38168,
+        "correct_rate": 0.8
+    },
+    {
+        "topic_id": 32,
+        "user_id": 38864,
+        "correct_rate": 0.6
+    },
+    {
+        "topic_id": 39,
+        "user_id": 33906,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 39,
+        "user_id": 34833,
+        "correct_rate": 0.7333333333333333
+    },
+    {
+        "topic_id": 39,
+        "user_id": 34921,
+        "correct_rate": 0.4
+    },
+    {
+        "topic_id": 39,
+        "user_id": 35122,
+        "correct_rate": 1.0
+    },
+    {
+        "topic_id": 39,
+        "user_id": 37073,
+        "correct_rate": 0.9333333333333333
+    },
+    {
+        "topic_id": 39,
+        "user_id": 37798,
+        "correct_rate": 0.8666666666666667
+    }
+]
